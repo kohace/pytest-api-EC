@@ -1,0 +1,10 @@
+<environment>
+    <parameter>
+        <key>system</key>
+        <value>windows 11</value>
+    </parameter>
+        <parameter>
+        <key>项目名</key>
+        <value>接口自动化测试</value>
+    </parameter>
+</environment>
